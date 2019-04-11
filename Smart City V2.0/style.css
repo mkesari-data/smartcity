@@ -1,0 +1,315 @@
+body {
+    background: #e2e1e0;
+    text-align: center;
+}
+
+b {
+    color: #CA6B7D;
+}
+
+.card {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 25px;
+    position: relative;
+    width: 380px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.smartFarmcardColor {
+    background: #70739E !important;
+    color: #fff;
+}
+
+.smartFarmingColor {
+    background: #9CCEC2 !important;
+    color: #fff;
+}
+
+.smartGridColor {
+    background: #D0B467 !important;
+    color: #fff;
+}
+
+.smartParkingColor {
+    background: #E699C7 !important;
+    color: #fff;
+}
+
+.ModernMedicine {
+    background: #97E4F1 !important;
+    color: #fff;
+}
+
+.smartFarmColor {
+    background: #A4CD7C !important;
+    color: #fff;
+}
+
+.smartParkColor {
+    background: #f7e4c6 !important;
+    color: #fff;
+}
+
+.card1 {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 450px;
+    margin: 15% 3% 2% 1%;
+    position: relative;
+    width: 415px;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+    background: #567865;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card1:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.mainCardImage {
+    width: 415px;
+    height: 400px;
+}
+
+.subcardImage {
+    width: 190px;
+    height: 149px;
+}
+.subcardImage2 {
+    width: 190px;
+    height: 149px;
+    position: absolute;
+    right: 0;
+}
+
+.cardBody {
+    position: absolute;
+    top: 60px;
+    bottom: 0;
+    left: 215px
+}
+.cardBody2 {
+    position: absolute;
+    top: 60px;
+    bottom: 0;
+    left: 30px;
+}
+
+.MaincardBody {
+    position: absolute;
+    bottom: -11px;
+    left: 12px
+}
+
+.cardvideoIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 38px;
+    cursor: pointer;
+}
+
+.cardDescIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 10px;
+    cursor: pointer;
+}
+.cardvideoIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    left: 15px;
+    cursor: pointer;
+}
+
+.cardDescIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    left: 43px;
+    cursor: pointer;
+}
+
+.modalCLose {
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    background: #e83e8c;
+    position: absolute;
+    right: -16px;
+    margin-top: -16px;
+    cursor: pointer
+}
+
+.CloseButtonX {
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    color: white;
+}
+.SmartHospiyalBubble {
+	position: relative;
+	background: #70739E;
+	border-radius: .4em;
+}
+
+.SmartHospiyalBubble:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 81px solid transparent;
+	border-left-color: #70739E;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -40.5px;
+	margin-right: -81px;
+}
+
+.SmartFamingBubble {
+	position: relative;
+	background: #9CCEC2;
+	border-radius: .4em;
+}
+
+.SmartFamingBubble:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 81px solid transparent;
+	border-left-color: #9CCEC2;
+	border-right: 0;
+	border-bottom: 0;
+	margin-top: -40.5px;
+	margin-right: -81px;
+}
+.SmartGridBubble {
+	position: relative;
+	background: #D0B467;
+	border-radius: .4em;
+}
+
+.SmartGridBubble:after {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: 72px solid transparent;
+	border-left-color: #D0B467;
+	border-right: 0;
+	border-top: 0;
+	margin-top: -36px;
+	margin-right: -72px;
+}
+.SmartParkingBubble {
+	position: relative;
+	background: #E699C7;
+	border-radius: .4em;
+}
+
+.SmartParkingBubble:after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 100px solid transparent;
+    border-left-color: #E699C7;
+    border-right: 0;
+    border-top: 0;
+    margin-top: -46px;
+    margin-right: -94px;
+}
+.ModernMedicineBubble {
+	position: relative;
+	background: #97E4F1;
+	border-radius: .4em;
+}
+
+.ModernMedicineBubble:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 81px solid transparent;
+    border-right-color: #97E4F1;
+    border-left: 0;
+    border-bottom: 0;
+    margin-top: -40px;
+    margin-left: -81px;
+}
+
+.SmartFarmBubble {
+	position: relative;
+	background: #A4CD7C;
+	border-radius: .4em;
+}
+
+.SmartFarmBubble:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 81px solid transparent;
+    border-right-color: #A4CD7C;
+    border-left: 0;
+    border-bottom: 0;
+    margin-top: -41px;
+    margin-left: -81px;
+}
+.SmartParkBubble {
+	position: relative;
+	background: #f7e4c6;
+	border-radius: .4em;
+}
+
+.SmartParkBubble:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 56%;
+    width: 0;
+    height: 0;
+    border: 72px solid transparent;
+    border-right-color: #f7e4c6;
+    border-left: 0;
+    border-top: 0;
+    margin-top: -36px;
+    margin-left: -72px;
+}
+}
