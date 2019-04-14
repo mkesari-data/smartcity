@@ -1,0 +1,438 @@
+body {
+    background: #ccffdf !important;
+    text-align: center;
+}
+
+b {
+    color: #CA6B7D;
+}
+
+.card {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 21% !important;
+    /* bottom: 20%; */
+    left: 13%;
+    margin-top: 25px;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card2 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 16% !important;
+    /* bottom: 20%; */
+    left: 24%;
+    margin-top: 25px;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card3 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 55% !important;
+    /* bottom: 20%; */
+    left: 42%;
+    margin-top: 25px;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card4 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 9% !important;
+    /* bottom: 20%; */
+    right: -9%;
+    margin-top: 25px;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+
+.card5 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 42% !important;
+    /* bottom: 20%; */
+    left: 12%;
+    margin-top: 25px;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card6 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 81% !important;
+    /* bottom: 20%; */
+    left: 8%;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card7 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 113% !important;
+    /* bottom: 20%; */
+    left: -5%;
+    position: absolute;
+    width: 340px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.arrawToSmartHospital {
+    position: absolute;
+}
+
+.card:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.smartFarmcardColor {
+    background: #70739E !important;
+    color: #fff;
+}
+
+
+.smartGridColor {
+    background: #D0B467 !important;
+    color: #fff;
+}
+
+.smartParkingColor {
+    background: #E699C7 !important;
+    color: #fff;
+}
+
+.ModernMedicine {
+    background: #97E4F1 !important;
+    color: #fff;
+}
+
+.smartFarmColor {
+    background: #A4CD7C !important;
+    color: #fff;
+}
+
+.smartTraficColor {
+    background:
+        #F0C64D !important;
+    color: #fff;
+}
+
+.smartParkColor {
+    background:
+        #838383 !important;
+    color: #fff;
+}
+
+.card1 {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    top: 110%;
+    position: absolute;
+    left: 16%;
+    width: 350px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #567865;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card1:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.card2:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+.card3:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}.card4:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}.card5:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}.card6:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}.card7:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.mainCardImage {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.subcardImage {
+    width: 190px;
+    height: 133px;
+    float: left;
+}
+
+.subcardImage2 {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.cardBody {
+    position: absolute;
+    top: 51px;
+    /* bottom: 15px; */
+    left: 216px;
+}
+
+.cardBody2 {
+    position: absolute;
+    top: 54px;
+    bottom: 0;
+    right: 3px;
+    width: 146px;
+}
+
+.MaincardBody {
+    position: absolute;
+    top: 29px;
+    right: -5px;
+    width: 170px;
+}
+
+.cardvideoIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 38px;
+    cursor: pointer;
+}
+
+.cardDescIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.cardvideoIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 43px;
+
+    cursor: pointer;
+}
+
+.cardDescIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.modalCLose {
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    background: #e83e8c;
+    position: absolute;
+    right: -16px;
+    margin-top: -16px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.CloseButtonX {
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    color: white;
+}
+
+.Canvas1 {
+    position: absolute;
+    top: 152%;
+    z-index: 9;
+    right: 48%;
+    z-index: -1;
+    width: 330px;
+}
+
+.Canvas2 {
+    position: absolute;
+    bottom: -116%;
+    left: -2%;
+    width: 373px;
+    z-index: -1;
+    transform: rotate(-12deg);
+}
+
+.Canvas3 {
+    position: absolute;
+    top: 83%;
+    right: 58%;
+    z-index: -1;
+    width: 324px;
+}
+
+.Canvas4 {
+    position: absolute;
+    bottom: -113%;
+    right: -45%;
+    width: 355px;
+    z-index: -1;
+}
+
+.Canvas5 {
+    position: absolute;
+    top: 139%;
+    z-index: 9;
+    right: -34%;
+    z-index: -1;
+}
+
+.Canvas7 {
+    position: absolute;
+    bottom: -149%;
+    right: -20%;
+    width: 384px;
+    z-index: -1;
+}
+
+.Canvas8 {
+    position: absolute;
+    bottom: -37%;
+    right: 9%;
+    width: 384px;
+    z-index: -1;
+    transform: rotate(129deg);
+}
+
+.toSmartHospital {
+    position: absolute;
+    height: 493px;
+    width: 172px;
+    left: 0%;
+    top: -15%;
+    transform: rotate(68deg);
+}
+
+.modal-body {
+    background: #f5dddc !important;
+}
+
+.arrawToIot {
+    position: absolute;
+    width: 84px;
+    height: 320px;
+    left: 21px;
+    top: 0%;
+    transform: rotate(79deg);
+}
+
+.arrawToLaser {
+    position: absolute;
+    width: 84px;
+    height: 422px;
+    left: 75px;
+    top: 7%;
+    transform: rotate(52deg);
+}
+
+.arrawToRobotics {
+    position: absolute;
+    width: 84px;
+    height: 448px;
+    left: 51px;
+    top: 51%;
+    transform: rotate(39deg);
+}
+
+.arrawToAI {
+    z-index: -1;
+    position: absolute;
+    width: 84px;
+    height: 207px;
+    right: -117px;
+    top: 13%;
+    transform: rotate(-40deg);
+}
+
+.arrawToMobile {
+    position: absolute;
+    width: 84px;
+    height: 290px;
+    right: -59px;
+    top: 58%;
+    transform: rotate(-25deg);
+    z-index: -1;
+}
+
+.arrawToPark {
+    position: absolute;
+    width: 84px;
+    height: 480px;
+    right: -17px;
+    top: 44%;
+    transform: rotate(-13deg);
+    z-index: -1;
+}
